@@ -15,8 +15,3 @@ export const Container = styled.div`
   align-items: center;
 `;
 
-export const MessageInfroContact = styled.p`
-font-style: 18px;
-text-align: center;
-font-weight: bold;
-`

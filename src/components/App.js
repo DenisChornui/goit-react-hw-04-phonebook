@@ -3,7 +3,7 @@ import { ContactForm } from './ContactForm/ContactForm';
 import { nanoid } from 'nanoid';
 import { ContactList } from './ContactList/ContactList';
 import { Filter } from './Filter/Filter';
-import { Container, MessageInfroContact } from './App.styled';
+import { Container, } from './App.styled';
 
 const getInitialContacts = () => {
   const saveContacts = localStorage.getItem('contacts');
